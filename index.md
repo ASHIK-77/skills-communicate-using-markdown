@@ -16,3 +16,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 #### code
 ``` javascript
 var myVar = "Hello, world!";
+```
+
+## Adding Task Lists
+
+- [x] syntax is error
+- [x] wrong logic
+- [ ] outcome obtained
